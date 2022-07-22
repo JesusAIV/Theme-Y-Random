@@ -1,0 +1,32 @@
+{
+    "name": "theme-y-random",
+    "displayName": "Theme-Y-Random",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Theme-Y-Random",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Theme-Y-Random-color-theme.json"
+            }
+        ]
+    },
+    "icon": "icon/carpeta.png",
+    "author": {
+        "name": "Jesús Isique Vásquez",
+        "email": "jesusalbertoisiquevasquez@gmail.com",
+        "url": "https://www.linkedin.com/in/jes%C3%BAs-isique-vasquez/"
+    },
+    "repository": {
+        "url": "https://github.com/JesusAIV/Theme-Y-Random.git",
+        "type": "git"
+    },
+    "publisher": "Yisus-Code"
+}
